@@ -6,7 +6,7 @@ I am a Front-end Developer
 - 🫀: I have over 3 years of experience in developing web applications using TypeScript and React.
 - ⛓️: I have one year of experience working as a developer in the cryptocurrency industry.
 
-
+---
 
 ### 🔫 Languages and Tools :
 <div>
