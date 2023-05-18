@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+### ⚔️ About Me :
+I am a Front-end Developer
+- 🫀: I have over 3 years of experience in developing web applications using TypeScript and React.
+- ⛓️: I have one year of experience working as a developer in the cryptocurrency industry.
+
+
 ### 🔫 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
