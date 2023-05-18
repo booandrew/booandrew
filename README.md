@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+
 ### ⚔️ About Me :
 I am a Front-end Developer
 - 🫀: I have over 3 years of experience in developing web applications using TypeScript and React.
 - ⛓️: I have one year of experience working as a developer in the cryptocurrency industry.
+
 
 
 ### 🔫 Languages and Tools :
@@ -17,7 +19,11 @@ I am a Front-end Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
+
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=booandrew&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 ### 🍉 Langs stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=booandrew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
