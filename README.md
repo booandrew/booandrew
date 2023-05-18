@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-### 🧝‍♂️ About Me :
+### About Me :
 I am a Front-end Developer
-- 🫀: I have over 3 years of experience in developing web applications using TypeScript and React.
-- ⛓️: I have one year of experience working as a developer in the cryptocurrency industry.
+- I have over 3 years of experience in developing web applications using TypeScript and React.
+- I have one year of experience working as a developer in the cryptocurrency industry.
 
 ---
 
-### 🔫 Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,9 +21,9 @@ I am a Front-end Developer
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=booandrew&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-### 🍉 Langs stats:
+### Langs stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=booandrew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
