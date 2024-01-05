@@ -3,8 +3,8 @@
 
 ### About Me :
 I am a Front-end Developer
-- I have over 3 years of experience in developing web applications using TypeScript and React.
-- I have one year of experience working as a developer in the cryptocurrency industry.
+- I have over 4 years of experience in developing web applications using TypeScript and React.
+- I have one year of experience working as a developer in the blockchain industry.
 
 ---
 
